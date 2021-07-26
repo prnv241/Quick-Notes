@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416739081152",
+    "firebase_url": "https://quick-notes-ff767.firebaseio.com",
+    "project_id": "quick-notes-ff767",
+    "storage_bucket": "quick-notes-ff767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416739081152:android:9c5c86ab91394a6d686625",
+        "android_client_info": {
+          "package_name": "com.sonicapps.quicknotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416739081152-o43fpnv8hl3nlcrmoiqre6rlevka0fbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUHdGrd7TdPyAQHIcMhx9_QN3Cf42GjZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416739081152-o43fpnv8hl3nlcrmoiqre6rlevka0fbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
